@@ -1,3 +1,5 @@
+Implementation of this theme was made possible by Jordan Haskel's repository for his portfolio, accessed September 24th, 2019: https://github.com/robo-jordo/portfolio
+
 Agency Jekyll theme
 ====================
 
@@ -5,7 +7,7 @@ Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/templ
 
 # How to use
 
-###Portfolio 
+###Portfolio
 
 Portfolio projects are in '/_posts'
 
