@@ -1,5 +1,5 @@
-url: "" #https://github.com
-baseurl: "portfolio" #/portfolio/
+url: https://github.com
+baseurl: /portfolio/
 
 # Site settings
 title: Marcel Bonnici
