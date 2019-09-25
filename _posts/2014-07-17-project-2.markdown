@@ -1,5 +1,5 @@
 ---
-title: Escapez
+title: Escaper
 subtitle: Website Design
 layout: default
 modal-id: 2
