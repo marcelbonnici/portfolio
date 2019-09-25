@@ -1,5 +1,5 @@
 ---
-title: Escape
+title: Escaper
 subtitle: Website Design
 layout: default
 modal-id: 2
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: This hackathon project entailed building a two degree of freedom webcam tripod to track a colored object. Using Python and OpenCV, it is configured to track an object the approximate color of an orange ping pong ball. For more information, feel free to observe the scripts on GitHub or watch the brief YouTube video.
+description: Coming Soon
 
 ---
