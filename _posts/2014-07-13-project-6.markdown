@@ -3,7 +3,7 @@ title: Rapidly-Growing Random Tree
 subtitle:
 layout: default
 modal-id: 6
-date: 2014-07-13
+date: 2014-07-15
 img: nu1.png
 thumbnail: nu1-thumbnail.png
 alt: image-alt
