@@ -4,17 +4,11 @@ subtitle:
 layout: default
 modal-id: 6
 date: 2014-09-21
-img: nu.png
-thumbnail: nu.png
+img: nu1.png
+thumbnail: nu1-thumbnail.png
 alt: image-alt
 project-date: September 2019
 client: Northwestern's MS Robotics Hackathon Orientation
 category: Path Navigation
-description: Exploring rapidly-growing random trees, or RRTs, served the last challenge in Northwestern University’s MS Robotics Hackathon orientation. An RRT is a means of generating random paths, and with obstacles in mind, avoids them to ideally reach an end coordinate. The challenge was intended to help students grow familiar with Python while exercising a phenomenon common in robot path navigation.
-
-After coding an RRT without a destination, which was followed by coding an RRT that navigates around circle obstacles, the last task yielded an RRT navigating around Northwestern University’s N logo to connect a start and end point.
-
-More detailed instructions on this challenge are outlined [here.](http://robotics.mech.northwestern.edu/~elwin/)
-
-View the project on github [here.](https://github.com/marcelbonnici/rrt)
+description: Exploring rapidly-growing random trees, or RRTs, served the last challenge in Northwestern University’s MS Robotics Hackathon orientation. An RRT is a means of generating random paths, and with obstacles in mind, avoids them to ideally reach an end coordinate. The challenge was intended to help students grow familiar with Python while exercising a phenomenon common in robot path navigation. After coding an RRT without a destination, which was followed by coding an RRT that navigates around circle obstacles, the last task yielded an RRT navigating around Northwestern University’s N logo to connect a start and end point. More detailed instructions on this challenge are outlined here: http://robotics.mech.northwestern.edu/~elwin/ View the project on github: https://github.com/marcelbonnici/rrt
 ---
