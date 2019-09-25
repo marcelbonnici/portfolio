@@ -1,21 +1,21 @@
 ---
-title: Computer Vision Ball Tracker
-subtitle:
+title: Startup Framework #Computer Vision Ball Tracker
+subtitle:Website Design
 layout: default
 modal-id: 5
-date: 2014-09-18
-img: cvball.JPG
-thumbnail: cvball.JPG
+date: 2014-07-14 #2019-09-18
+img: startup-framework.png #cvball.JPG
+thumbnail: startup-framework-thumbnail.png #cvball.JPG
 alt: image-alt
-project-date: September 2019
-Event: Northwestern's MS Robotics Hackathon Orientation
-category: Computer Vision
-description: This hackathon project entailed building a two degree of freedom webcam tripod to track a colored object. Using Python and OpenCV, it is configured to track an object the approximate color of an orange ping pong ball.
+project-date: April 2014 #September 2019
+client: Startup Bootstrap #Northwestern's MS Robotics Hackathon Orientation
+category: Web Development #Computer Vision
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse. #This hackathon project entailed building a two degree of freedom webcam tripod to track a colored object. Using Python and OpenCV, it is configured to track an object the approximate color of an orange ping pong ball.
 
-For more information, feel free to observe the scripts on GitHub or watch the brief YouTube video.
+#For more information, feel free to observe the scripts on GitHub or watch the brief YouTube video.
 
-[YouTube Video](https://www.youtube.com/watch?v=qhr6fgW47a8)
+#[YouTube Video](https://www.youtube.com/watch?v=qhr6fgW47a8)
 
-[View the Scripts on GitHub](https://github.com/marcelbonnici/Ball-Tracker)
+#[View the Scripts on GitHub](https://github.com/marcelbonnici/Ball-Tracker)
 
 ---
