@@ -1,15 +1,20 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Rapidly-Growing Random Tree
+subtitle:
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+date: 2014-09-21
+img: nu.png
+thumbnail: nu.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: September 2019
+client: Northwestern's MS Robotics Hackathon Orientation
+category: Path Navigation
+description: Exploring rapidly-growing random trees, or RRTs, served the last challenge in Northwestern University’s MS Robotics Hackathon orientation. An RRT is a means of generating random paths, and with obstacles in mind, avoids them to ideally reach an end coordinate. The challenge was intended to help students grow familiar with Python while exercising a phenomenon common in robot path navigation.
 
+After coding an RRT without a destination, which was followed by coding an RRT that navigates around circle obstacles, the last task yielded an RRT navigating around Northwestern University’s N logo to connect a start and end point.
+
+More detailed instructions on this challenge are outlined [here.](http://robotics.mech.northwestern.edu/~elwin/)
+
+View the project on github [here.](https://github.com/marcelbonnici/rrt)
 ---
