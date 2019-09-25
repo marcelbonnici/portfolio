@@ -1,5 +1,10 @@
 Implementation of this theme was made possible by Jordan Haskel's repository for his portfolio, accessed September 24th, 2019: https://github.com/robo-jordo/portfolio
 
+Photos of My bachelor's school, Central Connecticut State University, and Northwestern University have their photos cited respectively under Creative Commons licenses:
+
+1) https://commons.wikimedia.org/wiki/File:Panorama_of_CCSU_campus_from_the_East.jpg
+2) https://commons.wikimedia.org/wiki/File:Northwestern_Arch.jpg
+
 Agency Jekyll theme
 ====================
 
