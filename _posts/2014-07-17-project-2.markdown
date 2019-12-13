@@ -1,6 +1,6 @@
 ---
 title: Winter Project
-subtitle: Coming Soon
+subtitle: Coming Soon.
 layout: default
 modal-id: 2
 date: 2014-07-18
