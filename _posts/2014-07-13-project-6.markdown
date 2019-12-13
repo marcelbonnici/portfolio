@@ -1,6 +1,6 @@
 ---
 title: Rapidly-Growing Random Tree
-subtitle:
+subtitle: Coding an algorithm for 2D path navigation
 layout: default
 modal-id: 6
 date: 2014-07-15
