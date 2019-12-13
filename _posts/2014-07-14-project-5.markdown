@@ -1,21 +1,15 @@
 ---
-title: Startup Framework #Computer Vision Ball Tracker
-subtitle:Website Design
+title: The Baxter Builder
+subtitle:
 layout: default
 modal-id: 5
-date: 2014-07-14 #2019-09-18
-img: startup-framework.png #cvball.JPG
-thumbnail: startup-framework-thumbnail.png #cvball.JPG
+date: 2014-07-14
+img: legos3.jpg
+thumbnail: Baxter_1_Large.jpg #cvball.JPG
 alt: image-alt
-project-date: April 2014 #September 2019
-client: Startup Bootstrap #Northwestern's MS Robotics Hackathon Orientation
-category: Web Development #Computer Vision
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse. #This hackathon project entailed building a two degree of freedom webcam tripod to track a colored object. Using Python and OpenCV, it is configured to track an object the approximate color of an orange ping pong ball.
-
-#For more information, feel free to observe the scripts on GitHub or watch the brief YouTube video.
-
-#[YouTube Video](https://www.youtube.com/watch?v=qhr6fgW47a8)
-
-#[View the Scripts on GitHub](https://github.com/marcelbonnici/Ball-Tracker)
+project-date: April 2014
+client: Northwestern's Embedded Systems Course Final Project
+category: ROS
+description: The assignment required programming Baxter to interact with its environment to perform a task. Using OpenCV and MoveIt, this project was designed for Baxter to assemble a 3-brick pyramid by determining the inconsistent pick coordinates. VIDEO COMING SOON.
 
 ---
