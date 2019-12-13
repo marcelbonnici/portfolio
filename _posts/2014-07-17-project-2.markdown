@@ -1,5 +1,5 @@
 ---
-title: Escaper
+title: LEGO Pinball Machine [Passion Project]
 subtitle: Website Design
 layout: default
 modal-id: 2

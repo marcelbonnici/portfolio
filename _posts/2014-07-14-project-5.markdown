@@ -3,7 +3,7 @@ title: The Baxter Builder
 subtitle: Baxter builds a MEGA BLOKS pyramid
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2014-07-13
 img: legos3.JPG
 thumbnail: Baxter_1_Large.jpg
 alt: image-alt
