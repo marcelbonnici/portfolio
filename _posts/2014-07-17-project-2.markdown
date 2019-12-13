@@ -3,7 +3,7 @@ title: Winter Project
 subtitle: Coming Soon
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2014-07-18
 img: coming-soon.png
 thumbnail: coming-soon.png
 alt: image-alt
