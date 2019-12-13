@@ -3,7 +3,7 @@ title: Computer Vision Ball Tracker
 subtitle: A 2-DOF webcam tracks a colored ball
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2014-07-17
 img: cvball1.png
 thumbnail: cvball1-thumbnail.png
 alt: image-alt
