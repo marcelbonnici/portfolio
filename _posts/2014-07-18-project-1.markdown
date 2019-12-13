@@ -1,6 +1,6 @@
 ---
 title: Computer Vision Ball Tracker
-subtitle: 
+subtitle:
 layout: default
 modal-id: 1
 date: 2014-07-18
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: September 2019
 client: Northwestern's MS Robotics Hackathon
 category: Computer Vision
-description: This hackathon project entailed building a two degree of freedom webcam tripod to track a colored object. Using Python and OpenCV, it is configured to track an object the approximate color of an orange ping pong ball. For more information, feel free to observe the scripts on GitHub (https://github.com/marcelbonnici/Ball-Tracker) or watch the brief YouTube video (https://www.youtube.com/watch?v=qhr6fgW47a8).
+description: This hackathon project entailed building a two degree of freedom webcam tripod to track a colored object. Using Python and OpenCV, it is configured to track an object the approximate color of an orange ping pong ball. For more information, feel free to observe the scripts on GitHub (https://github.com/marcelbonnici/Ball-Tracker) or watch the brief YouTube video <br>  <div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qhr6fgW47a8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br><br>To see more you can visit <a href="https://github.com/marcelbonnici/Ball-Tracker">Computer Vision Ball Tracker</a>
 
 ---
