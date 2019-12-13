@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Mobile Manipulation Capstone
+subtitle: KUKA robot motion planning
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: kevin.gif
+thumbnail: kevin.gif
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: Northwestern's Robotic Manipulation Final Project
+category: Modern Robotics
+description: The code plans a trajectory for the end-effector of the youBot mobile manipulator (a mobile base with four mecanum wheels and a 5R robot arm), performs odometry as the chassis moves, and performs feedback control to drive the youBot to pick up a block at a specified location, carry it to a desired location, and put it down. <br>  <div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qhr6fgW47a8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br><br>To see more you can visit the <a href="https://github.com/marcelbonnici/mobile_manipuation_capstone">GitHub repository</a>
 
 ---
