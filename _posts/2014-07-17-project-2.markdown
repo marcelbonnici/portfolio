@@ -7,7 +7,7 @@ date: 2014-07-18
 img: coming-soon.png
 thumbnail: coming-soon.png
 alt: image-alt
-project-date: April 2014
+project-date: Spring 2020
 client: Start Bootstrap
 category: Coming Soon
 description: Coming Soon

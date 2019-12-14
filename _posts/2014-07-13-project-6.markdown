@@ -7,7 +7,7 @@ date: 2014-07-15
 img: kevin.gif
 thumbnail: kevin.gif
 alt: image-alt
-project-date: September 2019
+project-date: December 2019
 client: Northwestern's Robotic Manipulation Final Project
 category: Modern Robotics
 description: The code plans a trajectory for the end-effector of the youBot mobile manipulator (a mobile base with four mecanum wheels and a 5R robot arm), performs odometry as the chassis moves, and performs feedback control to drive the youBot to pick up a block at a specified location, carry it to a desired location, and put it down. <br>  <div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XvYdUPLrBC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br><br>To see more you can visit the <a href="https://github.com/marcelbonnici/mobile_manipuation_capstone">GitHub repository</a>
