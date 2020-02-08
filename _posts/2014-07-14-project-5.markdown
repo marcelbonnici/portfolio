@@ -10,6 +10,6 @@ alt: image-alt
 project-date: December 2019
 client: Northwestern's Embedded Systems Course Final Project
 category: ROS
-description: The assignment required programming Baxter to interact with its environment to perform a task. Using OpenCV and MoveIt, this project was designed for Baxter to assemble a 3-brick pyramid by determining the inconsistent pick coordinates. <br>  <div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vgTQ4k0aGFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br><br>To see more you can visit the <a href="https://github.com/marcelbonnici/final-project-megabloks">GitHub repository</a>
+description: The assignment required programming Baxter to interact with its environment to perform a task. Using OpenCV and MoveIt, this project was designed for Baxter to assemble a 3-brick pyramid by determining the inconsistent pick coordinates. <br>  <div align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ofX3eASGTF8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br><br>To see more you can visit the <a href="https://github.com/marcelbonnici/final-project-megabloks">GitHub repository</a>
 
 ---
