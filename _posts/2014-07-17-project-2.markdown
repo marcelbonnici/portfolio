@@ -1,5 +1,5 @@
 ---
-title: Math Homework Machine
+title: Math Homework Machine!
 subtitle: Makes answer key for worksheets
 layout: default
 modal-id: 2
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: March 2020
 client: Northwestern's MS Robotics Winter Project
 category: Mechatronics
-description: <h3>Project Overview</h3> To achieve every student’s dream, I created a homework machine to read worksheets and reveal their answers. As a ten-week assignment, problems were limited to simple multiplication problems, called “times tables” in many US schools, where third grade students multiply whole numbers inclusively between 0 and 12. The core project components were
+description: <h3>Project Overview</h3> To achieve every student’s dream, I created a homework machine to read worksheets and reveal their answers. As a ten-week assignment, problems were limited to simple multiplication problems, called “times tables” in many US schools, where third grade students multiply whole numbers inclusively between 0 and 12. The core project components were: <ul><li>LEGO prototype for projecting the machine’s plausibility</li><li>Tesseract for transcribing image files to text</li><li>OpenCV for visualizing Tesseract’s bounding boxes and for overlaying answers on the photocopy</li><li>Microcontroller for operating the scanner and conversing with the Python code via serial</li></ul>
 
 ---
