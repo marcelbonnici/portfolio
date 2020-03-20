@@ -1,11 +1,11 @@
 ---
 title: Spring Project
-subtitle: Coming Soon...
+subtitle: Coming Soon
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: coming-soon.png
-thumbnail: coming-soon.png
+img: coming-soon1.png
+thumbnail: coming-soon1.png
 alt: image-alt
 project-date: June 2020
 client: Start Bootstrap
