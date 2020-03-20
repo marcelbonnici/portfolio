@@ -4,8 +4,8 @@ subtitle: Makes answer key for worksheets via CV
 layout: default
 modal-id: 2
 date: 2014-07-18
-img: default.jpg
-thumbnail: default.jpg
+img: coming-soon.png
+thumbnail: coming-soon.png
 alt: image-alt
 project-date: March 2020
 client: Northwestern's MS Robotics Winter Project
